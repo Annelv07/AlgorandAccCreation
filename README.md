@@ -19,6 +19,9 @@ or
 pip3 install py-algorand-sdk
 ```
 
+You can check details of py-algorand-sdk on the <a href="https://github.com/algorand/py-algorand-sdk">Official Github of Algorand</a>! <br>
+See py-algorand-sdk documentation <a href="https://py-algorand-sdk.readthedocs.io/en/latest/index.html">here</a>!
+
 ### Incase of Error
 If there is an error showing that you are missing an import:
 ```
