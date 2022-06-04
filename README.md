@@ -19,9 +19,6 @@ or
 pip3 install py-algorand-sdk
 ```
 
-#### Additional Notes
-Before you run the code for the transaction (not the SDK installation), make sure that you already set up Algorand Sandbox on your Linux, Windows Subsystem for Linux (Ubuntu), or Zsh environment.
-
 ### Incase of Error
 If there is an error showing that you are missing an import:
 ```
