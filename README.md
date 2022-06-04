@@ -25,8 +25,7 @@ If there is an error showing that you are missing an import:
 "X" could not be resolved Pylance(reportMissingImports)"
 ```
 Then make sure you have changed the paths of your working Python environment to match 
-the path where the Algorand Python SDK is installed. For example in Spyder, you can add a 
-new PATH leads to the installed Algorand Python SDK through PythonPath Manager.
+the path where the Algorand Python SDK is installed. For example in <b>Spyder</b>, you can add a new PATH leads to the installed Algorand Python SDK through PythonPath Manager.
 
 ![image](https://user-images.githubusercontent.com/92056286/171984939-92b5234a-5349-4d7c-825a-fbdada040d75.png)
 
