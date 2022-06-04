@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun  4 11:40:14 2022
-
-@author: User
-"""
 
 from algosdk import account, mnemonic
 
